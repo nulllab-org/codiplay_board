@@ -104,28 +104,28 @@ The main board leads out 23 GPIO ports in the ESP32 module as user-operable IO p
 | GPIO | Function | Port |
 | --- | --- | --- |
 | GPIO2 | Digital Input, Digital Output, ADC | On-board LED, not operable by the user when using a specific firmware, used as a Bluetooth connection indicator |
-| GPIO4 | Digital Input, Digital Output, ADC, PWM | P2[4 3V3 G] |
-| GPIO5 | Digital Input, Digital Output, ADC, PWM | P1[5 3V3 G] |
-| GPIO12 | Digital Input, Digital Output, ADC | P10[12 13 5V G] |
-| GPIO13 | Digital Input, Digital Output, ADC | P10[12 13 5V G] |
-| GPIO14 | Digital Input, Digital Output, ADC | P9[14 15 5V G]</br>P15[14 15 16 17 5V G] |
-| GPIO15 | Digital Input, Digital Output, ADC | P9[14 15 5V G]</br>P15[14 15 16 17 5V G] |
-| GPIO16 | Digital Input, Digital Output | P15[14 15 16 17 5V G] |
-| GPIO17 | Digital Input, Digital Output | P15[14 15 16 17 5V G] |
-| GPIO18 | Digital Input, Digital Output | P11[18 36 3V3 G] |
-| GPIO19 | Digital Input, Digital Output | P12[19 39 3V3 G] |
-| GPIO21 | Digital Input, Digital Output, I2C SDA | I2C[SCL SDA 5V G] |
-| GPIO22 | Digital Input, Digital Output, I2C SCL | I2C[SCL SDA 5V G] |
-| GPIO23 | Digital Input, Digital Output | P14[23 32 33 3V3 G] |
-| GPIO25 | Digital Input, Digital Output, ADC, PWM | P7[25 3V3 G] </br> P13[25 26 27 3V3 G]|
-| GPIO26 | Digital Input, Digital Output, ADC, PWM | P8[26 3V3 G] </br> P13[25 26 27 3V3 G]|
-| GPIO27 | Digital Input, Digital Output, ADC | P13[25 26 27 3V3 G] |
-| GPIO32 | Digital Input, Digital Output, ADC | P14[23 32 33 3V3 G] |
-| GPIO33 | Digital Input, Digital Output, ADC | P14[23 32 33 3V3 G] |
-| GPIO34 | Digital Input, Digital Output, ADC | P6[34 3V3 G] |
-| GPIO35 | Digital Input, Digital Output, ADC | P5[35 3V3 G] |
-| GPIO36 | Digital Input, Digital Output, ADC | P4[36 3V3 G] </br> P11[18 36 3V3 G] |
-| GPIO39 | Digital Input, Digital Output, ADC | P3[39 3V3 G] </br> P12[19 39 3V3 G] |
+| GPIO4 | Digital Input, Digital Output, ADC, PWM | P2 [4 3V3 G] |
+| GPIO5 | Digital Input, Digital Output, ADC, PWM | P1 [5 3V3 G] |
+| GPIO12 | Digital Input, Digital Output, ADC | P10 [12 13 5V G] |
+| GPIO13 | Digital Input, Digital Output, ADC | P10 [12 13 5V G] |
+| GPIO14 | Digital Input, Digital Output, ADC | P9 [14 15 5V G]</br>P15 [14 15 16 17 5V G] |
+| GPIO15 | Digital Input, Digital Output, ADC | P9 [14 15 5V G]</br>P15 [14 15 16 17 5V G] |
+| GPIO16 | Digital Input, Digital Output | P15 [14 15 16 17 5V G] |
+| GPIO17 | Digital Input, Digital Output | P15 [14 15 16 17 5V G] |
+| GPIO18 | Digital Input, Digital Output | P11 [18 36 3V3 G] |
+| GPIO19 | Digital Input, Digital Output | P12 [19 39 3V3 G] |
+| GPIO21 | Digital Input, Digital Output, I2C SDA | I2C [SCL SDA 5V G] |
+| GPIO22 | Digital Input, Digital Output, I2C SCL | I2C [SCL SDA 5V G] |
+| GPIO23 | Digital Input, Digital Output | P14 [23 32 33 3V3 G] |
+| GPIO25 | Digital Input, Digital Output, ADC, PWM | P7 [25 3V3 G] </br> P13 [25 26 27 3V3 G]|
+| GPIO26 | Digital Input, Digital Output, ADC, PWM | P8 [26 3V3 G] </br> P13 [25 26 27 3V3 G]|
+| GPIO27 | Digital Input, Digital Output, ADC | P13 [25 26 27 3V3 G] |
+| GPIO32 | Digital Input, Digital Output, ADC | P14 [23 32 33 3V3 G] |
+| GPIO33 | Digital Input, Digital Output, ADC | P14 [23 32 33 3V3 G] |
+| GPIO34 | Digital Input, Digital Output, ADC | P6 [34 3V3 G] |
+| GPIO35 | Digital Input, Digital Output, ADC | P5 [35 3V3 G] |
+| GPIO36 | Digital Input, Digital Output, ADC | P4 [36 3V3 G] </br> P11 [18 36 3V3 G] |
+| GPIO39 | Digital Input, Digital Output, ADC | P3 [39 3V3 G] </br> P12 [19 39 3V3 G] |
 
 ## Power Supply
 
